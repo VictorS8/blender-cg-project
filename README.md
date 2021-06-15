@@ -6,7 +6,7 @@ It is a car concept to be modeled and animated throughout the semester
 
 ### How to contribute to the project
 
-First, obviously, you have to install these tools
+First, obviously, you have to install these tools and follow the steps that are on the sites ahead
 
 -   [Git](https://git-scm.com/downloads)
 -   [Git LFS](https://git-lfs.github.com/)
