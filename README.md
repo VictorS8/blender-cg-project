@@ -34,8 +34,9 @@ Because git has great control above binary files but not when is working with a 
 
 ### Blender version
 
-Using Blender version [v2.83.16 Windows 64x](https://download.blender.org/release/Blender2.83/blender-2.83.16-windows-x64.zip)
-Same version to different OS [here](https://download.blender.org/release/Blender2.83/)
+Using Blender version [v2.83.16 Windows 64x](https://download.blender.org/release/Blender2.83/blender-2.83.16-windows-x64.zip) 
+
+Same version of Blender to different OS [here](https://download.blender.org/release/Blender2.83/)
 
 ## Conclusion
 
