@@ -32,6 +32,11 @@ Because git has great control above binary files but not when is working with a 
 
 [Working with Blender, Git, and Git Large File Storage (LFS)](https://creativepolygon.com/tutorials/working-with-blender-git-and-git-large-file-storage-lfs)
 
+### Blender version
+
+Using Blender version [v2.83.16 Windows 64x](https://download.blender.org/release/Blender2.83/blender-2.83.16-windows-x64.zip)
+Same version to different OS [here](https://download.blender.org/release/Blender2.83/)
+
 ## Conclusion
 
 I think it is about it! Just open your pull request and let us work
