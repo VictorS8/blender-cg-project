@@ -1,6 +1,6 @@
-[English](README.md) | Portuguese
+[English](README.md) | Português
 
-# Blender CG Project
+# Projeto de Blender de CG
 
 Esse projeto é para a cadeira de Computação Gráfica na Faculdade (IFCE - BR)
 
