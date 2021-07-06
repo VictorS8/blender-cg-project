@@ -40,6 +40,10 @@ Usando a versão do Blender [v2.83.16 Windows 64x](https://download.blender.org/
 
 Mesma versão do Blender para diferentes SO [aqui](https://download.blender.org/release/Blender2.83/)
 
+### Progresso do Projeto
+
+Estamos salvando o progresso do projeto na [stages.md](stages.md), para ser possível ver cada parte do processo até o modelo final do fusca
+
 ## Conclusão
 
 Eu acho que é isto! Apenas abra seu pull request e vamos trabalhar!
