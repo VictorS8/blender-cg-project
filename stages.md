@@ -12,3 +12,10 @@ First we made the beetle's skeleton to make it easy to modeling and divide each 
 
 ## 2. Beetle's modeling
 
+### Trunk part (Back part of the car)
+
+![trunk](stages-assets/back-part/trunk.png)
+
+![wheel-arch-back](stages-assets/back-part/wheel-arch-back.png)
+
+![brake-light](stages-assets/back-part/brake-light.png)
