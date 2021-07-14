@@ -12,6 +12,8 @@ First we made the beetle's skeleton to make it easy to modeling and divide each 
 
 ## 2. Beetle's modeling
 
+### Initial modeling
+
 When modeling the beetle, we began with just a mesh plane
 
 ![mesh-plane](stages-assets/initial/mesh-plane.png)
