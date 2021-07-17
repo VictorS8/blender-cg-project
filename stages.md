@@ -21,3 +21,11 @@ When modeling the beetle, we began with just a mesh plane
 We add some modifier to help on modelling each side of the car, thickness and roundness
 
 ![modifiers](stages-assets/initial/modifiers.png)
+
+### Trunk part (Back part of the car)
+
+![trunk](stages-assets/back-part/trunk.png)
+
+![wheel-arch-back](stages-assets/back-part/wheel-arch-back.png)
+
+![brake-light](stages-assets/back-part/brake-light.png)
