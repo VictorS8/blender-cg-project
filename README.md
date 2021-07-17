@@ -40,6 +40,10 @@ Using Blender version [v2.83.16 Windows 64x](https://download.blender.org/releas
 
 Same version of Blender to different OS [here](https://download.blender.org/release/Blender2.83/)
 
+### Project Progress
+
+We are saving the project progress on [stages.md](stages.md), to be able to see each part of the process to the beetle's final model
+
 ## Conclusion
 
 I think it is about it! Just open your pull request and let us work
